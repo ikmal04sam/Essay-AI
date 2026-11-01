@@ -1,0 +1,501 @@
+filename,L1,prompt,length_in_words,fair_mean_avge_MFRM,measure_MFRM,rank_rubric_MFRM,CEFR_MFRM
+SPM04048,Spanish,In the words of the old song: 'Money is the root of all evil',754,6.53,-4.63,19,B1
+SPM04022,Spanish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,707,7.02,-3.77,36,B1+
+SPM02004,Spanish,In the words of the old song: 'Money is the root of all evil',574,7.71,-2.54,91,B1+
+GESA4011,German,Do you think that death penalty should be abolished?,626,7.88,-2.2,107,B1+
+SPM07005,Spanish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,546,7.74,-2.48,93,B1+
+SPM04023,Spanish,Feminists have done more harm to the cause of women than good,514,8.29,-1.42,150,B2
+FRUC3088,French,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",673,11.19,3.82,441,C2
+SPM10006,Spanish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,678,9.23,0.15,251,B2+
+SPM02015,Spanish,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,555,9.87,1.32,329,B2+
+SPM04033,Spanish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",575,7.9,-2.18,110,B1+
+SPM01005,Spanish,Feminists have done more harm to the cause of women than good,538,9.26,0.19,255,B2+
+SPM04043,Spanish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",662,9.51,0.63,295,B2+
+FRUL1033,French,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",752,10.16,1.91,365,C1
+SPM04003,Spanish,Feminists have done more harm to the cause of women than good,787,8.49,-1.07,172,B2
+FRUL2028,French,Feminists have done more harm to the cause of women than good,673,10.62,2.79,404,C1
+FRUC3092,French,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,629,10.4,2.38,388,C1
+FRUB1022,French,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,771,11.34,4.12,449,C2
+FRUB1008,French,Feminists have done more harm to the cause of women than good,680,11.33,4.12,448,C2
+SPM10010,Spanish,Feminists have done more harm to the cause of women than good,663,9.69,0.97,312,B2+
+SPM02011,Spanish,Feminists have done more harm to the cause of women than good,729,9.41,0.46,281,B2+
+FRUB1010,French,Feminists have done more harm to the cause of women than good,611,9.1,-0.07,232,B2+
+SPM01013,Spanish,In the words of the old song: 'Money is the root of all evil',641,10.19,1.98,368,C1
+FRUL2017,French,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",750,10.71,2.95,408,C1
+FRUB2016,French,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",679,10.08,1.76,354,C1
+GEAU4002,German,Argue the case for or against capital punishment,605,11.98,7.98,492,C2
+NOAG1013,Norwegian,Feminists have done more harm to the cause of women than good,795,7.52,-2.88,71,B1+
+TSNO1303,Tswana,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,630,5.92,-5.9,5,NA
+JPSW3008,Japanese,How English Should Be Taught,497,6.96,-3.87,32,B1
+TSNO1489,Tswana,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,400,6.98,-3.83,34,B1
+SPM03020,Spanish,In the words of the old song: 'Money is the root of all evil',522,6.09,-5.53,9,B1
+TSNO1068,Tswana,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,390,5.95,-5.84,6,NA
+CZPR2016,Czech,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,616,7.5,-2.92,69,B1+
+JPTF1039,Japanese,Death Penalty,564,4.35,-8.97,1,A2
+TSKC1292,Tswana,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,482,6.13,-5.45,10,B1
+TSNO1145,Tswana,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,533,7.27,-3.33,50,B1+
+TSNO1308,Tswana,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,416,6.94,-3.89,31,B1
+CZPR2013,Czech,In the words of the old song: 'Money is the root of all evil',422,6.25,-5.18,12,B1
+IRGOL01008,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,429,6.37,-4.94,15,B1
+PAPL1002,Punjabi,Marx once said that religion is opium of masses. If he was alive at the end of the 20th century he would replace religion with television,632,7.62,-2.7,84,B1+
+KRSA1021,Korean,Should the death penalty be mandatory for people that kill other people?,464,8.9,-0.38,214,B2
+CNUK1184,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,665,6.04,-5.63,8,B1
+KRBF1053,Korean,"In the words of the old song ""Money is the root of all evil"".",514,7.22,-3.42,45,B1+
+JPTM1024,Japanese,Death Penalty,556,7.08,-3.66,39,B1+
+TSNO1428,Tswana,Feminists have done more harm to the cause of women than good,506,6.45,-4.79,16,B1
+KRBF2010,Korean,"Some people say that in our modern world, dominated by science technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion ?",516,5.73,-6.28,3,NA
+TSNO1434,Tswana,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",427,7.14,-3.55,41,B1+
+CNUK4002,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,556,7.28,-3.32,51,B1+
+SPM07023,Spanish,In the words of the old song: 'Money is the root of all evil',489,6.66,-4.39,26,B1
+LTVY5026,Lithuanian,Money is the root of all evil,520,8.03,-1.93,122,B2
+KRBF2022,Korean,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 21th century, he would replace religion with television.",580,8.48,-1.09,170,B2
+PALW1002,Urdu,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,549,6.54,-4.61,20,B1
+JPSW3004,Japanese,How English Should Be Taught,555,7.74,-2.47,94,B1+
+CNUK2008,Chinese,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,421,7.59,-2.76,79,B1+
+RUMO9010,Russian,In the words of the old song: 'Money is the root of all evil',740,9.44,0.5,286,B2+
+PAGD1002,Punjabi,Marx once said that religion is opium of masses. If he was alive at the end of the 20th century he would replace religion with television,542,7.61,-2.72,83,B1+
+TSNO1482,Tswana,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,450,7.65,-2.64,87,B1+
+JPSW3015,Japanese,How English Should Be Taught,533,6.66,-4.38,27,B1
+CNUK2032,Chinese,Feminists have done more harm to the cause of women than good,428,7.32,-3.25,55,B1+
+TRCU1001,Turkish,Capital Punishment,616,6.29,-5.12,14,B1
+CZKR1003,Czech,All armies should consist entirely of professional soldiers: there is no value in a system of military service,576,6.75,-4.23,28,B1
+CNUK3065,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,401,7.75,-2.46,95,B1+
+DBAN2034,Dutch,In the words of the old song: 'Money is the root of all evil',538,8.53,-1,174,B2
+SPM07011,Spanish,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,401,7.58,-2.78,78,B1+
+JPTF1042,Japanese,Death Penalty,458,6.56,-4.57,21,B1
+PAGF1039,Punjabi,"Some people say that in our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",726,8.15,-1.68,134,B2
+JPSW3009,Japanese,How English Should Be Taught,471,7.88,-2.2,108,B1+
+BRMG1119,Portuguese,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,517,7.61,-2.73,81,B1+
+TRCU1125,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,549,8.34,-1.34,159,B2
+PACJ1013,Punjabi,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,549,8.33,-1.36,158,B2
+PAGF1012,Urdu,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,535,7.6,-2.73,82,B1+
+JPSW3020,Japanese,How English Should Be Taught,506,7.86,-2.24,104,B1+
+JPSW3007,Japanese,How English Should Be Taught,439,6.93,-3.91,30,B1
+PAGF1036,Punjabi,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,736,8.18,-1.63,138,B2
+RUMO4017,Russian,Feminists have done more harm to the cause of women than good,448,9.18,0.06,243,B2+
+BRSS1345,Portuguese,"Marx once said that religion was the opium of the masses. If he were alive at the end of the 20th century, he would replace religion with television.",510,8.14,-1.71,132,B2
+TRCU1107,Turkish,In the words of the old song: 'Money is the root of all evil',787,7.45,-3.01,64,B1+
+PAAO1005,Punjabi,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,698,7.51,-2.9,70,B1+
+JPTF1027,Japanese,Capital Punishment,649,6.57,-4.55,23,B1
+KRBF2032,Korean,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 21th century, he would replace religion with television.",500,5.22,-7.19,2,NA
+MDCM3059,Macedonian,Should criminals be imprisoned or rehabilitated?,504,8.6,-0.88,186,B2
+SEES1020,Serbian,"In the words of the old song ""Money is the root of all evil"". Agree or disagree.",494,7.29,-3.3,54,B1+
+KRHY1090,Korean,Feminists have done more harm to the cause of women than good.,529,6.51,-4.67,17,B1
+KRHY1091,Korean,Should the death penalty be mandatory for people that kill other people?,557,8.13,-1.72,131,B2
+SEES2001,Serbian,"In our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",640,9.27,0.22,260,B2+
+CZUN1006,Czech,All armies should consist entirely of professional soldiers: there is no value in a system of military service,662,7.65,-2.64,86,B1+
+ITRS2007,Italian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,504,10.21,2.02,369,C1
+JPTF1007,Japanese,Death Penalty,490,7.94,-2.08,115,B1+
+CNUK4013,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,504,5.84,-6.05,4,NA
+IRMA07029,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,769,7.55,-2.83,76,B1+
+IRMA05002,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,439,8.42,-1.19,165,B2
+CNUK1049,Chinese,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,527,9.77,1.13,320,B2+
+CNUK1090,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,531,6.04,-5.63,7,B1
+CNUK1115,Chinese,Should military service be compulsory in your country or should the army of your country consist of only professional soldiers? Discuss.,524,7.94,-2.09,114,B1+
+KRBF1020,Korean,Feminists have done more harm to the cause of women than good.,546,8.28,-1.44,149,B2
+TRCU1051,Turkish,In the words of the old song: 'Money is the root of all evil',547,6.51,-4.67,18,B1
+TRME3006,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,643,6.63,-4.44,25,B1
+TRCU1047,Turkish,In the words of the old song: 'Money is the root of all evil',611,9.31,0.29,266,B2+
+JPSW3011,Japanese,How English Should Be Taught,454,7.01,-3.78,35,B1+
+IRMA01023,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,732,7.35,-3.2,58,B1+
+TSNO1439,Tswana,Feminists have done more harm to the cause of women than good,399,7.98,-2.02,119,B1+
+RUMO5044,Russian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,432,8.26,-1.49,147,B2
+JPSW3002,Japanese,How English Should Be Taught,513,7.34,-3.21,57,B1+
+PAIJ1004,Punjabi,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,586,7.18,-3.49,44,B1+
+PAGF1018,Urdu,The prison system is outdated. No civilized society should punish its criminals; it should rehabilitate them,701,7.83,-2.3,102,B1+
+BRSM1369,Portuguese,"In the words of the old song Money is the root of all evil""""",511,9.51,0.63,294,B2+
+ITTO6003,Italian,Feminists have done more harm to the cause of women than good,458,7.81,-2.34,100,B1+
+TRME3029,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,516,8.31,-1.4,154,B2
+DBAN1016,Dutch,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,484,7.44,-3.03,63,B1+
+CZPR3013,Czech,In the words of the old song: 'Money is the root of all evil',567,7.34,-3.21,56,B1+
+TSNO1426,Tswana,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",534,7.13,-3.57,40,B1+
+SPM10005,Spanish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,462,8.19,-1.6,139,B2
+ITRS2021,Italian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,418,7.58,-2.79,77,B1+
+CNUK1105,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,490,7.38,-3.13,60,B1+
+TRCU1106,Turkish,Capital Punishment,539,7.68,-2.6,89,B1+
+BRSS1346,Portuguese,"Some people say that in our modern world, dominated by science technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",587,7.88,-2.2,106,B1+
+PALW1004,Punjabi,"Some people say that in our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",521,6.8,-4.15,29,B1
+RUMO5008,Russian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",707,9.08,-0.1,228,B2+
+BGSU1187,Bulgarian,In his novel 'Animal Farm' George Orwell wrote 'All men are equal but some are more equal than others'. How true is this today?,447,8.57,-0.93,182,B2
+TSNO1488,Tswana,Feminists have done more harm to the cause of women than good,637,7.26,-3.34,49,B1+
+CZPR2001,Czech,Feminists have done more harm to the cause of women than good,726,6.17,-5.35,11,B1
+SWUL1001,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",526,8.69,-0.74,193,B2
+TRCU1138,Turkish,Capital Punishment,512,9.12,-0.03,236,B2+
+NOHO1028,Norwegian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",482,9.2,0.1,249,B2+
+PAUF1008,Punjabi,The prison system is outdated. No civilized society should punish its criminals; it should rehabilitate them,671,7.49,-2.93,68,B1+
+POPZ1045,Polish,In the words of the old song: 'Money is the root of all evil',531,8.56,-0.96,178,B2
+TSNO1457,Tswana,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,402,9.43,0.49,284,B2+
+ITRS1001,Italian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",709,7.87,-2.23,105,B1+
+CZPR3061,Czech,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",516,7.03,-3.74,37,B1+
+TRCU1065,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,594,7.77,-2.41,97,B1+
+NOHO1033,Norwegian,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,611,8.03,-1.91,124,B2
+SENS1027,Serbian,"In the words of the old song ""Money is the root of all evil"". Agree or disagree.",607,9.27,0.22,261,B2+
+LTVY4001,Lithuanian,Most university degrees are theoretical and they do not prepare students for the real world,541,7.42,-3.08,62,B1+
+DBAN2032,Dutch,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,417,9.31,0.28,265,B2+
+FIJY1054,Finnish,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",515,8.89,-0.4,213,B2
+BRMG1279,Portuguese,"In the words of the old song Money is the root of all evil""""",801,9.65,0.9,309,B2+
+FIHE1019,Finnish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,620,7.27,-3.32,52,B1+
+RUMO5034,Russian,In the words of the old song: 'Money is the root of all evil',598,8.7,-0.71,196,B2
+GEAU4006,German,Argue the case for or against capital punishment,494,10.65,2.84,405,C1
+RUMO4022,Russian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",513,8.82,-0.52,208,B2
+RUMO5002,Russian,Feminists have done more harm to the cause of women than good,710,8.48,-1.09,171,B2
+POSI2071,Polish,English is an easy language to learn,509,10.5,2.57,398,C1
+IRMA03008,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,575,7.28,-3.32,53,B1+
+CZPU1012,Czech,In the words of the old song: 'Money is the root of all evil',651,8.09,-1.8,129,B2
+CNUK1042,Chinese,Feminists have done more harm to the cause of women than good,511,6.62,-4.46,24,B1
+SWUL6004,Swedish,Feminists have done more harm to the cause of women than good,468,8.4,-1.23,162,B2
+TRCU1064,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,616,7.17,-3.51,43,B1+
+CZPR2029,Czech,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",623,9.11,-0.06,233,B2+
+GESA4005,German,Should death penalty be abolished?,445,8.71,-0.7,197,B2
+BGSU1291,Bulgarian,In his novel 'Animal Farm' George Orwell wrote 'All men are equal but some are more equal than others'. How true is this today?,498,8.62,-0.85,189,B2
+DBAN1017,Dutch,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,507,9.03,-0.18,226,B2+
+ITRS2018,Italian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",536,8.61,-0.86,188,B2
+CZPR2020,Czech,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",753,8.8,-0.55,207,B2
+FRUL2007,German,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",523,10.47,2.53,392,C1
+KRMJ1010,Korean,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value.,668,7.6,-2.75,80,B1+
+PACJ1008,Urdu,The prison system is outdated. No civilized society should punish its criminals; it should rehabilitate them,564,7.76,-2.44,96,B1+
+HUEL4029,Hungarian,Mobile phones are bad for us,428,8.22,-1.55,143,B2
+TSNO1009,Tswana,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,695,7.48,-2.95,66,B1+
+SPM07019,Spanish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",506,7.92,-2.14,112,B1+
+KRBF1041,Korean,Should children unconditionally obey their parents?,517,8.92,-0.36,215,B2
+KRSA1011,Korean,Should the death penalty be mandatory for people that kill other people?,491,8.47,-1.1,168,B2
+PAAM1004,Punjabi,"Some people say that in our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",566,8.06,-1.86,128,B2
+GRAR3006,Greek,Feminists have done more harm to the cause of women than good,545,9.35,0.36,271,B2+
+KRBF1017,Korean,"Some people say that in our modern world, dominated by science technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion ?",492,7.66,-2.63,88,B1+
+TRCU1108,Turkish,In the words of the old song: 'Money is the root of all evil',674,7.39,-3.12,61,B1+
+ITTO5007,Italian,In the words of the old song: 'Money is the root of all evil',486,7.46,-3,65,B1+
+GRAR5095,Greek,"Some people say that in our modern world, dominated by science, technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",633,8.79,-0.57,205,B2
+IRGOL01011,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,498,7.23,-3.39,48,B1+
+JPTF1019,Japanese,Death Penalty,528,8.4,-1.22,163,B2
+FIJY1027,Finnish,In the words of the old song: 'Money is the root of all evil',698,7.54,-2.86,73,B1+
+FRUB1005,French,In the words of the old song: 'Money is the root of all evil',531,6.06,-5.437,425,B1
+CNUK2017,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,449,7.84,-2.29,103,B1+
+NOUO2035,Norwegian,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,693,8.3,-1.41,152,B2
+SWUL4032,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",508,8.75,-0.63,200,B2
+TSNO1448,Tswana,Feminists have done more harm to the cause of women than good,502,7.06,-3.7,38,B1+
+RUMO6025,Russian,Feminists have done more harm to the cause of women than good,430,10.3,2.28,93,C1
+BGSU1143,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,432,9.03,-0.19,225,B2+
+KRBF1062,Korean,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 21th century, he would replace religion with television.",625,7.69,-2.57,90,B1+
+IRKI09041,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,700,7.64,-2.66,85,B1+
+CNUK1005,Chinese,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,763,7.96,-2.05,117,B1+
+PAGW1002,Punjabi,"Some people say that in our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",590,8.59,-0.9,185,B2
+BRMG1295,Portuguese,"Marx once said that religion was the opium of the masses. If he were alive at the end of the 20th century, he would replace religion with television.",616,8.6,-0.87,187,B2
+ITRS2027,Italian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",614,9.47,0.56,289,B2+
+CZKR1009,Czech,In the words of the old song: 'Money is the root of all evil',510,7.8,-2.36,99,B1+
+JPSW3006,Japanese,How English Should Be Taught,585,8.02,-1.94,121,B2
+BGSU1018,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,543,9.61,0.81,305,B2+
+IRGOL01006,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,554,7.16,-3.52,42,B1+
+ITRS2025,Italian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",794,9.14,0,240,B2+
+FIJY1055,Finnish,In the words of the old song: 'Money is the root of all evil',527,9.18,0.06,242,B2+
+TSNO1425,Tswana,Feminists have done more harm to the cause of women than good,600,6.28,-5.13,13,B1
+ITRS1003,Italian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",489,9.13,-0.02,238,B2+
+TRCU1046,Turkish,In the words of the old song: 'Money is the root of all evil',504,8.02,-1.93,123,B2
+SWUV3008,Swedish,In the words of the old song: 'Money is the root of all evil',454,9.38,0.4,275,B2+
+KRSA1001,Korean,Should the death penalty be mandatory for people that kill other people?,508,6.98,-3.83,33,B1
+TRCU1072,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,608,6.57,-4.56,22,B1
+RUMO3013,Russian,In the words of the old song: 'Money is the root of all evil',495,8.2,-1.59,141,B2
+BRFF1068,Portuguese,Feminists have done more harm to the cause of women than good.,773,7.22,-3.41,46,B1+
+BGSU1139,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,595,8.77,-0.6,203,B2
+PAGF1014,Punjabi,"Some people say that in our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",640,7.79,-2.39,98,B1+
+BGSU1248,Bulgarian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value.,390,8.8,-0.55,206,B2
+IRMA01035,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,500,8.71,-0.7,198,B2
+CZPR2008,Czech,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",540,9.26,0.19,254,B2+
+GRAR1077,Greek,"Marx once said that religion was the opium of the masses. If he was alive at the beginning of the 21st century, he would replace religion with television.",416,8.17,-1.66,135,B2
+LTVY1005,Lithuanian,Marx once said that religion was the opium of the masses. If he were alive at the end of the 20th century he would replace religion with television,619,9,-0.23,220,B2+
+GRAR3002,Greek,Feminists have done more harm to the cause of women than good,683,7.23,-3.41,47,B1+
+HUEL4018,Hungarian,Mobile phone leads to loneliness,546,9.13,-0.02,237,B2+
+TSNO1410,Tswana,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,657,8.58,-0.92,183,B2
+PACJ1010,Punjabi,"Some people say that in our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",729,8.97,-0.28,216,B2
+KRBF1047,Korean,Should children unconditionally obey their parents?,509,7.37,-3.16,59,B1+
+ITTO5004,Italian,In the words of the old song: 'Money is the root of all evil',743,10.04,1.68,348,C1
+BRSS1344,Portuguese,"In the words of the old song Money is the root of all evil""""",590,7.5,-2.93,67,B1+
+SEES2022,Serbian,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them.,760,8.76,-0.61,202,B2
+CZKR1005,Czech,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",719,8.26,-1.48,148,B2
+JPTF1041,Japanese,Death Penalty,525,8.23,-1.54,145,B2
+RUMO4001,Russian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",605,10.74,3,411,C1
+GESA4007,German,Do you think that death penalty should be abolished?,448,8.41,-1.2,164,B2
+DBAN1032,Dutch,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",456,8.06,-1.86,127,B2
+ITTO6005,Italian,Feminists have done more harm to the cause of women than good,642,9.72,1.03,314,B2+
+LTVI2081,Lithuanian,Feminists have done more harm to the cause of women than good,403,8.53,-1,175,B2
+MDCM1163,Macedonian,Should criminals be imprisoned or rehabilitated,501,7.54,-2.85,75,B1+
+TRCU1130,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,753,8.58,-0.91,184,B2
+FIJO1012,Finnish,"Is capital punishment different in kind from other sorts of judicial sanction? If it were shown to be effective in deterring  crimes of certain sorts, would that justify its use?",462,8.18,-1.63,137,B2
+FIJY1014,Finnish,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",609,9.27,0.21,258,B2+
+GRAR2007,Greek,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value.,598,9.54,0.68,297,B2+
+FRUC3066,French,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",570,10.15,1.89,364,C1
+GRAR1032,Greek,"Marx once said that religion was the opium of the masses. If he was alive at the beginning of the 21st century, he would replace religion with television.",600,10.3,2.19,379,C1
+CNUK4012,Chinese,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,470,8.23,-1.55,142,B2
+TSNO1462,Tswana,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,577,9.11,-0.06,235,B2+
+LTVY2005,Lithuanian,Marx once said that religion was the opium of the masses. If he were alive at the end of the 20th century he would replace religion with television,534,8,-1.98,120,B2
+JPSW3003,Japanese,How English Should Be Taught,577,8.49,-1.06,173,B2
+BGSU1088,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,477,10.11,1.82,358,C1
+NOHO1045,Norwegian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",565,9.02,-0.2,224,B2+
+LTVI2074,Lithuanian,Is everyone really equal?,768,7.93,-2.11,113,B1+
+SPM05011,Spanish,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,672,7.95,-2.08,116,B1+
+BGSU1183,Bulgarian,In his novel 'Animal Farm' George Orwell wrote 'All men are equal but some are more equal than others'. How true is this today?,694,8.99,-0.24,219,B2
+LTVY2014,Lithuanian,Most university degrees are theoretical and they do not prepare students for the real world,506,9.25,0.18,253,B2+
+PAGF1033,Punjabi,The prison system is outdated. No civilized society should punish its criminals; it should rehabilitate them,714,7.89,-2.19,109,B1+
+BGSU1259,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,446,7.9,-2.17,111,B1+
+RUMO5040,Russian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,739,8.84,-0.49,209,B2
+NOHO1035,Norwegian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",588,8.78,-0.59,204,B2
+FRUB2013,French,In the words of the old song: 'Money is the root of all evil',493,9.84,1.27,327,B2+
+CNUK1137,Chinese,Should military service be compulsory in your country or should the army of your country consist of only professional soldiers? Discuss.,683,8.47,-1.11,167,B2
+POSI1006,Polish,Death penalty - for or against ?,427,9.45,0.53,287,B2+
+ITTO5008,Italian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,730,9.2,0.1,248,B2+
+RUMO5020,Russian,In the words of the old song: 'Money is the root of all evil',636,9.39,0.42,276,B2+
+DBAN2006,Dutch,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",698,11.46,4.4,452,C2
+ITRS2035,Italian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",457,9.48,0.58,292,B2+
+CZPR3023,Czech,In the words of the old song: 'Money is the root of all evil',801,10.08,1.76,353,C1
+HUEL4026,Hungarian,Mobile phones in public places,476,9.99,1.57,340,B2+
+NOUO2025,Norwegian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",530,9.57,0.74,302,B2+
+FRUC3061,French,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",485,10.14,1.87,362,C1
+TRME3019,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,680,7.72,-2.52,92,B1+
+HUEL4081,Hungarian,Mobile phones: blessing of curse,513,9.98,1.56,339,B2+
+GRAR3012,Greek,Feminists have done more harm to the cause of women than good,510,9.08,-0.1,227,B2+
+RUMO5046,Russian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,755,8.42,-1.19,166,B2
+CNUK4011,Chinese,Feminists have done more harm to the cause of women than good,530,7.2,-3.307,395,B1+
+HUEL4021,Hungarian,Mobile phones equal bad manners,489,8.84,-0.48,210,B2
+DBAN2005,Dutch,In the words of the old song: 'Money is the root of all evil',783,9.28,0.23,262,B2+
+NOBE1004,Norwegian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,624,9.02,-0.2,223,B2+
+RUMO9012,Russian,Feminists have done more harm to the cause of women than good,769,8.98,-0.25,218,B2
+BRRS1048,Portuguese,"Some people say that in our modern world, dominated by science technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",552,9.81,1.21,323,B2+
+FRUL2018,German,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,535,9.64,0.87,308,B2+
+HUEL4053,Hungarian,Should Mobile Phones Be Prohibited?,488,9.3,0.27,264,B2+
+BRMG1110,Portuguese,"Some people say that in our modern world, dominated by science technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",507,10.14,1.87,361,C1
+HUEL4125,Hungarian,Mobile phones: useful but dangerous,494,11.32,4.09,446,C2
+HUEL4132,Hungarian,Mobile etiquette should be enforced by law,432,9.25,0.18,252,B2+
+FRUL2016,French,In the words of the old song: 'Money is the root of all evil',555,10.1,1.8,357,C1
+FRUC3029,French,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",505,9.33,0.31,267,B2+
+FRUL2002,French,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,562,10.67,2.88,406,C1
+GRAR5064,Greek,"Some people say that in our modern world, dominated by science, technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",474,9.93,1.45,334,B2+
+FIJY1047,Finnish,In the words of the old song: 'Money is the root of all evil',518,8.33,-1.36,156,B2
+MDCM2037,Macedonian,"In the words of the old song ""Money is the root of all evil""",674,9.74,1.07,318,B2+
+FIAB1010,Swedish,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",563,9.18,0.06,241,B2+
+HUEL4109,Hungarian,Mobile phones should be banned,535,8.87,-0.43,212,B2
+HUEL4059,Hungarian,Mobile phones are ruining privacy,470,10.06,1.72,350,C1
+DBAN3034,Dutch,Feminists have done more harm to the cause of women than good,507,8.54,-0.98,176,B2
+KRBF1058,Korean,Should children unconditionally obey their parents?,772,9.48,0.57,291,B2+
+DBAN3042,Dutch,In the words of the old song: 'Money is the root of all evil',510,11.77,5.46,474,C2
+SWUV3004,Swedish,Feminists have done more harm to the cause of women than good,492,9.9,1.39,332,B2+
+FIJY1075,Finnish,Feminists have done more harm to the cause of women than good,609,11.75,5.34,473,C2
+IRMA12003,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,530,9.09,-0.09,229,B2+
+CZUN1010,Czech,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",567,8.4,-1.24,161,B2
+CNUK1029,Chinese,Should military service be compulsory in your country or should the army of your country consist of only professional soldiers? Discuss.,628,7.54,-2.86,72,B1+
+FIJY1005,Finnish,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",698,8.56,-0.94,180,B2
+MDCM2030,Macedonian,Feminists have done more harm to the cause of women than good,535,10.25,2.09,376,C1
+ITTO6004,Italian,Feminists have done more harm to the cause of women than good,555,8.54,-0.98,177,B2
+DBAN2042,Dutch,Feminists have done more harm to the cause of women than good,556,8.72,-0.68,199,B2
+RUMO2020,Russian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,514,10.07,1.73,351,C1
+CNUK1051,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,518,8.15,-1.69,133,B2
+SEBG1032,Serbian,"In his novel Animal Farm, George Orwell wrote ""All men are equal: but some are more equal than others"". How true is this today?",411,8.03,-1.91,125,B2
+KRMJ1027,Korean,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value.,617,9.09,-0.08,230,B2+
+NOUO1083,Norwegian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,567,8.56,-0.95,179,B2
+LTVY3003,Lithuanian,Feminists have done more harm to the cause of women than good,509,8.3,-1.41,151,B2
+GRAR2013,Greek,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value.,522,10.49,2.55,395,C1
+HUEL4092,Hungarian,Mobile etiquette should be introduced at workplaces,474,9.85,1.29,328,B2+
+FRUL2005,German,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",685,9.46,0.55,288,B2+
+BRSM1348,Portuguese,Feminists have done more harm to the cause of women than good.,570,9.98,1.56,338,B2+
+NOUO1074,Norwegian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,480,9.37,0.39,274,B2+
+DBAN3050,Dutch,Feminists have done more harm to the cause of women than good,441,10.03,1.65,346,C1
+LTVY3004,Lithuanian,Feminists have done more harm to the cause of women than good,513,10.38,2.35,386,C1
+NOHO1001,Norwegian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,714,9.21,0.12,250,B2+
+BRRS1036,Portuguese,Feminists have done more harm to the cause of women than good.,535,9.4,0.43,277,B2+
+BRRS1024,Portuguese,"Marx once said that religion was the opium of the masses. If he were alive at the end of the 20th century, he would replace religion with television.",448,8.48,-1.09,169,B2
+LTVY2011,Lithuanian,Money is the root of all evil,503,9.2,0.09,245,B2+
+BRMG1116,Portuguese,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,508,10,1.6,342,C1
+CZPU1011,Czech,Feminists have done more harm to the cause of women than good,707,8.29,-1.249,292,B2
+FIAB1009,Swedish,In the words of the old song: 'Money is the root of all evil',560,9.49,0.6,293,B2+
+DBAN3029,Dutch,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",522,10.09,1.78,356,C1
+SEBG2027,Serbian,"In his novel Animal Farm, George Orwell wrote ""All men are equal: but some are more equal than others"". How true is this today?",509,10.01,1.61,344,C1
+JPTF1013,Japanese,Capital Punishment,507,7.54,-2.85,74,B1+
+BGSU1299,Bulgarian,In his novel 'Animal Farm' George Orwell wrote 'All men are equal but some are more equal than others'. How true is this today?,535,11.6,4.79,463,C2
+KRBF1014,Korean,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 21th century, he would replace religion with television.",525,7.96,-2.05,118,B1+
+GRAR5054,Greek,"Some people say that in our modern world, dominated by science, technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",701,11.97,7.48,491,C2
+IRMA13002,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,518,10.24,2.09,375,C1
+NOAC1008,Norwegian,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,389,10.08,1.76,355,C1
+PAQI1001,Punjabi,"Some people say that in our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",599,8.7,-0.72,194,B2
+LTVY3007,Lithuanian,Most university degrees are theoretical and they do not prepare students for the real world,506,9.26,0.2,257,B2+
+GRAR1091,Greek,"Marx once said that religion was the opium of the masses. If he was alive at the beginning of the 21st century, he would replace religion with television.",701,10.01,1.61,343,C1
+CZPR3057,Czech,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,812,10.76,3.04,414,C1
+ITTO5001,Italian,In the words of the old song: 'Money is the root of all evil',553,9.52,0.66,296,B2+
+FRUL1034,French,Feminists have done more harm to the cause of women than good,527,10.81,3.12,418,C1
+BGSU1063,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,391,9.41,0.45,280,B2+
+NOHO1026,Norwegian,Feminists have done more harm to the cause of women than good,734,11.05,3.55,433,C2
+FRUB2005,French,In the words of the old song: 'Money is the root of all evil',551,11.4,4.25,450,C2
+IRMA14013,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,782,9.19,0.08,244,B2+
+FIJY1050,Finnish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,642,9.89,1.37,330,B2+
+FIJO1024,Finnish,"Is capital punishment different in kind from other sorts of judicial sanction? If it were shown to be effective in deterring  crimes of certain sorts, would that justify its use?",748,9.62,0.83,306,B2+
+TRCU1104,Turkish,Capital Punishment,636,9.47,0.56,290,B2+
+ITVE3002,Italian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",582,9.8,1.18,321,B2+
+LTVY3018,Lithuanian,Is everyone really equal?,515,10.16,1.91,366,C1
+TRCU1177,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,792,8.56,-0.94,181,B2
+POSI1001,Polish,Death penalty - for or against ?,479,10.74,3,410,C1
+RUMO4009,Russian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",502,9,-0.23,221,B2+
+POSI2060,Polish,English is an easy language to learn,661,10.86,3.22,420,C1
+HUEL4094,Hungarian,Mobile phones: more of a curse that a blessing,469,10.6,2.76,402,C1
+JPTF1034,Japanese,Death Penalty,544,8.32,-1.36,157,B2
+LTVY5024,Lithuanian,Money is the root of all evil,717,10.37,2.33,385,C1
+CNUK1149,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,677,8.24,-1.52,146,B2
+HUEL4074,Hungarian,Mobile phones - disconnecting people,522,10.87,3.24,421,C1
+IRMA03002,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,651,8.3,-1.4,153,B2
+HUEL4052,Hungarian,Away with mobiles!,432,9.81,1.2,322,B2+
+ITRS2034,Italian,Feminists have done more harm to the cause of women than good,624,10.24,2.08,374,C1
+LTVY3017,Lithuanian,Feminists have done more harm to the cause of women than good,519,8.1,-1.79,130,B2
+GEAU4011,German,Why should anyone study foreign languages?,607,11.02,3.5,432,C2
+BGSU1004,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,525,9.58,0.76,303,B2+
+BGSU1057,Bulgarian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",598,9.9,1.39,331,B2+
+FIJY1061,Finnish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",570,9.36,0.36,270,B2+
+DBAN3073,Dutch,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",571,9.84,1.27,326,B2+
+ITTO5006,Italian,In the words of the old song: 'Money is the root of all evil',692,10.52,2.61,400,C1
+LTVY1002,Lithuanian,Is everyone really equal?,528,11.68,5.05,468,C2
+TRCU1131,Turkish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,706,8.7,-0.72,195,B2
+GESA4009,German,Do you think that death penalty should be abolished?,626,9.3,0.27,263,B2+
+ITTO6002,Italian,Feminists have done more harm to the cause of women than good,415,9.27,0.22,259,B2+
+FIAB1007,Swedish,In the words of the old song: 'Money is the root of all evil',567,10.31,2.21,382,C1
+RUMO6014,Russian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",606,10.11,1.82,359,C1
+GRAR3036,Greek,Feminists have done more harm to the cause of women than good,597,10.32,2.24,384,C1
+FIJO1037,Finnish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",499,11.91,6.45,483,C2
+SEES2005,Serbian,"In our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",595,9.1,-0.06,234,B2+
+MDCM2033,Macedonian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,595,11.56,4.67,459,C2
+BRRS1045,Portuguese,"In the words of the old song Money is the root of all evil""""",555,9.54,0.69,298,B2+
+NOBU1004,Norwegian,Feminists have done more harm to the cause of women than good,697,11.09,3.64,435,C2
+FIJY1030,Finnish,In the words of the old song: 'Money is the root of all evil',722,11.6,4.78,462,C2
+TSNO1403,Tswana,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,570,8.35,-1.32,160,B2
+FRUL1002,German,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",707,10.9,3.29,425,C1
+DBAN3037,Dutch,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",494,11.25,3.93,445,C2
+SEBJ1039,Serbian,"In his novel Animal Farm, George Orwell wrote ""All men are equal: but some are more equal than others"". How true is this today?",729,9.56,0.72,300,B2+
+DBAN2050,Dutch,In the words of the old song: 'Money is the root of all evil',501,8.86,-0.46,211,B2
+GESA4003,German,Should death penalty be abolished?,650,10.45,2.49,390,C1
+FRUB1009,French,Feminists have done more harm to the cause of women than good,483,11.15,3.75,437,C2
+LTVY4024,Lithuanian,Money is the root of all evil,627,7.83,-2.3,101,B1+
+GRAR3005,Greek,Feminists have done more harm to the cause of women than good,452,9.13,-0.01,239,B2+
+TSNO1431,Tswana,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",663,9.2,0.09,246,B2+
+CZPR4020,Czech,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",502,9.64,0.87,307,B2+
+NOUO2002,Norwegian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",642,10.22,2.04,373,C1
+FIAB1056,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",615,10.72,3.061,69,C1
+NOUO1025,Norwegian,Feminists have done more harm to the cause of women than good,494,8.17,-1.66,136,B2
+RUMO9006,Russian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",767,9.09,-0.08,231,B2+
+PAAM1007,Punjabi,The prison system is outdated. No civilized society should punish its criminals; it should rehabilitate them,516,9.33,0.32,269,B2+
+GRAR5010,Greek,"Some people say that in our modern world, dominated by science, technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",554,9.57,0.74,301,B2+
+POPZ1020,Polish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,523,10.08,1.75,352,C1
+SENS2032,Serbian,"In the words of the old song ""Money is the root of all evil"". Agree or disagree.",525,10.75,3.03,413,C1
+GEAU3089,German,A defence of capital punishment,563,NA,NA,NA,NA
+RUMO4007,Russian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",616,9.74,1.06,317,B2+
+IRMA01005,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,610,8.62,-0.85,190,B2
+SWUL4029,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",581,10.22,2.03,371,C1
+FIAB1005,Swedish,Feminists have done more harm to the cause of women than good,581,11,3.46,430,C2
+KRHY1115,Korean,Should the death penalty be mandatory for people that kill other people?,681,9.54,0.69,299,B2+
+LTVY2001,Lithuanian,Most university degrees are theoretical and they do not prepare students for the real world,517,8.22,-1.55,144,B2
+IRMA03016,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,516,9.42,0.47,282,B2+
+GESA4010,German,Do you think that death penalty should be abolished?,577,9.44,0.5,285,B2+
+CZPR3009,Czech,Feminists have done more harm to the cause of women than good,591,9.92,1.43,333,B2+
+SWUL6001,Swedish,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",520,9.25,0.19,256,B2+
+FIJY1043,Finnish,Feminists have done more harm to the cause of women than good,730,11.22,3.89,443,C2
+MDCM2022,Macedonian,"In the words of the old song ""Money is the root of all evil""",516,9.83,1.24,325,B2+
+MDCM3068,Macedonian,Feminists have done more harm to the cause of women than good,582,9.74,1.06,316,B2+
+SENS1016,Serbian,"In the words of the old song ""Money is the root of all evil"". Agree or disagree.",425,10.46,2.49,391,C1
+LTVY5017,Lithuanian,Is everyone really equal?,508,9.42,0.47,283,B2+
+NOAC1017,Norwegian,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,560,9.37,0.39,273,B2+
+IRMA10001,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,615,10.04,1.67,347,C1
+DBAN1019,Dutch,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",605,11.71,5.15,469,C2
+SEBG2046,Serbian,"In our modern world, dominated by science, technology and industrialization, there is no longer a place for dreaming and imagination. What is your opinion?",587,9.66,0.9,310,B2+
+BGSU1062,Bulgarian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",462,8.32,-1.37,155,B2
+LTVY5020,Lithuanian,Marx once said that religion was the opium of the masses. If he were alive at the end of the 20th century he would replace religion with television,508,10.71,2.95,409,C1
+SENS3012,Serbian,"In the words of the old song ""Money is the root of all evil"". Agree or disagree.",562,10.48,2.53,393,C1
+SWUL2011,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",539,9.95,1.49,335,B2+
+MDCM2035,Macedonian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",693,11.16,3.77,439,C2
+HUEL4063,Hungarian,Mobile phone use should be strictly controlled at workplaces.,478,10.69,2.91,407,C1
+POPZ1044,Polish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",671,10.87,3.24,422,C1
+FIAB1054,Swedish,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",663,11.96,7.24,490,C2
+SWUL4001,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",636,9.73,1.04,315,B2+
+HUEL4143,Hungarian,Mobile phones used more intelligently,494,10.02,1.63,345,C1
+ITTO5005,Italian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,616,8.04,-1.9,126,B2
+BRMG1120,Portuguese,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,541,8.67,-0.76,192,B2
+BGSU1022,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,624,11.11,3.67,436,C2
+FRUC3093,French,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,452,11.58,4.72,460,C2
+GRAR2055,Greek,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value.,635,10.28,2.16,378,C1
+LTVY5022,Lithuanian,Marx once said that religion was the opium of the masses. If he were alive at the end of the 20th century he would replace religion with television,723,10.26,2.11,377,C1
+DBAN3065,Dutch,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,710,8.77,-0.61,201,B2
+CNUK1138,Chinese,Discuss the view that capital punishment should be carried out in all cases for murder.,567,8.66,-0.79,191,B2
+SEBG1014,Serbian,"In the words of the old song ""Money is the root of all evil"". Agree or disagree.",581,10.74,3.01,412,C1
+FIHE1001,Finnish,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",556,11.24,3.92,444,C2
+NOUO2036,Norwegian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",747,10.05,1.69,349,C1
+DBAN3017,Dutch,Feminists have done more harm to the cause of women than good,511,10.15,1.89,363,C1
+SEES1009,Serbian,Is capital punishment defensible?,509,9.4,0.43,278,B2+
+SWUL1003,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",758,10.94,3.36,428,C1
+MDCM3048,Macedonian,"Some people say that in our modern world, dominated by science technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",701,9.77,1.12,319,B2+
+GRAR2059,Greek,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value.,515,9.33,0.31,268,B2+
+SEBG2014,Serbian,Feminists have done more harm to the cause of women than good.,605,11.78,5.47,475,C2
+RUMO8004,Russian,Feminists have done more harm to the cause of women than good,629,9,-0.23,222,B2+
+BGSU1184,Bulgarian,In his novel 'Animal Farm' George Orwell wrote 'All men are equal but some are more equal than others'. How true is this today?,564,9.6,0.8,304,B2+
+CZKR1007,Czech,Feminists have done more harm to the cause of women than good,742,10.22,2.04,372,C1
+FIJO1005,Finnish,"Is capital punishment different in kind from other sorts of judicial sanction? If it were shown to be effective in deterring  crimes of certain sorts, would that justify its use?",809,9.82,1.23,324,B2+
+BGSU1074,Bulgarian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",706,10.52,2.6,399,C1
+BRSM1377,Portuguese,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,444,10.48,2.54,394,C1
+FRUL2012,German,In his novel 'Animal Farm' George Orwell wrote 'All men are equal but some are more equal than others'. How true is this today?,763,11.89,6.26,481,C2
+JPTF1033,Japanese,Death Penalty,578,8.2,-1.59,140,B2
+GRAR5029,Greek,"Some people say that in our modern world, dominated by science, technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",597,9.69,0.96,311,B2+
+BGSU1234,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,515,9.96,1.51,336,B2+
+GRAR1086,Greek,"Marx once said that religion was the opium of the masses. If he was alive at the beginning of the 21st century, he would replace religion with television.",596,9.37,0.38,272,B2+
+HUEL4102,Hungarian,Mobile phones in elementary and secondary schools,744,10.79,3.09,416,C1
+BGSU1071,Bulgarian,Most University degrees are theoretical and do not prepare us for the real life. Do you agree or disagree?,756,10.31,2.21,381,C1
+SEBG2050,Serbian,"In the words of the old song ""Money is the root of all evil"". Agree or disagree.",690,11.47,4.44,453,C2
+GESA4004,German,Should death penalty be abolished?,728,10.17,1.94,367,C1
+SEBJ1030,Serbian,"In his novel Animal Farm, George Orwell wrote ""All men are equal: but some are more equal than others"". How true is this today?",712,11.55,4.65,458,C2
+TRCU1103,Turkish,Capital Punishment,810,10.11,1.82,360,C1
+POPZ1015,Polish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",733,9.98,1.54,337,B2+
+GRAR2032,Greek,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value.,630,11.01,3.48,431,C2
+IRMA12008,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,642,11.18,3.81,440,C2
+BGSU1243,Bulgarian,In his novel 'Animal Farm' George Orwell wrote 'All men are equal but some are more equal than others'. How true is this today?,603,11.05,3.56,434,C2
+IRMA07036,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,549,10.49,2.55,396,C1
+HUEL4136,Hungarian,Mobile Etiquettes Are Urgently Needed,495,9.2,0.1,247,B2+
+IRMA10012,Persian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of little value. Do you agree or disagree with the statement above?,738,8.99,-0.25,217,B2
+SEBG1015,Serbian,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them.,586,10.79,3.1,417,C1
+HUEL4140,Hungarian,Mobile communication - 'connecting people'?,535,11.63,4.88,464,C2
+NOUO1094,Norwegian,Feminists have done more harm to the cause of women than good,577,10.39,2.36,387,C1
+FRUL1004,German,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",660,10.91,3.31,427,C1
+BRSM1351,Portuguese,Feminists have done more harm to the cause of women than good.,419,11.33,4.1,447,C2
+KRSA1056,Korean,Should the death penalty be mandatory for people that kill other people?,517,10.4,2.39,389,C1
+POPZ1009,Polish,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,605,11.94,6.8,487,C2
+SEBG1008,Serbian,"In his novel Animal Farm, George Orwell wrote ""All men are equal: but some are more equal than others"". How true is this today?",575,11.9,6.38,482,C2
+MDCM2040,Macedonian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",709,10.32,2.23,383,C1
+MDCM2041,Macedonian,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",601,11.94,6.91,488,C2
+POPZ1001,Polish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",693,NA,NA,NA,NA
+FRUL2008,German,Feminists have done more harm to the cause of women than good,557,10,1.59,341,C1
+SWUL3007,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",734,11.44,4.35,451,C2
+DBAN2033,Dutch,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",739,11.64,4.93,467,C2
+POSI2029,Polish,English is an easy language to learn,582,11.49,4.49,454,C2
+MDCM3041,Macedonian,Should criminals be imprisoned or rehabilitated?,791,10.84,3.18,419,C1
+POSI2032,Polish,English is an easy language to learn,630,11.64,4.9,466,C2
+FRUL2013,German,"In the 19th century, Victor Hugo said: 'How sad it is to think that nature is calling out but humanity refuses to pay heed.' Do you think it is still true nowadays?",474,11.79,5.52,476,C2
+POPZ1010,Polish,In the words of the old song: 'Money is the root of all evil',751,10.89,3.28,423,C1
+BRSM1372,Portuguese,"In the words of the old song Money is the root of all evil""""",434,11.53,4.58,456,C2
+POPZ2031,Polish,"Is capital punishment different in kind from other sorts of judicial sanction? If it were shown to be effective in deterring  crimes of certain sorts, would that justify its use?",684,11.63,4.88,465,C2
+POSI1010,Polish,Death penalty - for or against ?,551,11.93,6.73,486,C2
+POSI2024,Polish,English is an easy language to teach,599,9.72,1.02,313,B2+
+MDCM3040,Macedonian,Should criminals be imprisoned or rehabilitated?,598,11.81,5.62,478,C2
+MDCM3063,Macedonian,Should criminals be imprisoned or rehabilitated?,531,11.58,4.72,461,C2
+SWUL5017,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",605,9.4,0.43,279,B2+
+FRUL2001,German,"Marx once said that religion was the opium of the masses. If he was alive at the end of the 20th century, he would replace religion with television",628,11.72,5.23,472,C2
+FIHE1028,Finnish,In the words of the old song: 'Money is the root of all evil',592,11.72,5.22,471,C2
+IRMA07015,Persian,The prison system is outdated; no civilized society should punish its criminals. It should rehabilitate them. Do you agree or disagree with the statement above?,708,10.3,2.2,380,C1
+SEBJ2007,Serbian,Is capital punishment defensible?,523,10.53,2.63,401,C1
+NOUO2003,Norwegian,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",670,11.54,4.61,457,C2
+HUEL4045,Hungarian,Buying mobile phones for children under 14 is the parents' responsibility,455,10.99,3.45,429,C1
+GRAR1130,Greek,"Marx once said that religion was the opium of the masses. If he was alive at the beginning of the 21st century, he would replace religion with television.",500,11.86,5.99,480,C2
+POPZ1006,Polish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,632,10.9,3.29,426,C1
+BRRS1028,Portuguese,Feminists have done more harm to the cause of women than good.,617,11.93,6.65,485,C2
+MDCM2024,Macedonian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,765,11.21,3.86,442,C2
+SWUL4026,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",475,10.9,3.28,424,C1
+DBAN3053,Dutch,Feminists have done more harm to the cause of women than good,813,10.22,2.03,370,C1
+POPZ1004,Polish,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,815,10.5,2.57,397,C1
+POSI1007,Polish,Against death penalty,801,11.52,4.55,455,C2
+FIHE1022,Finnish,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,622,11.17,3.77,438,C2
+SWUL3027,Swedish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",569,10.61,2.78,403,C1
+MDCM3056,Macedonian,"In the words of the old song ""Money is the root of all evil""",800,11.92,6.61,484,C2
+POPZ1003,Polish,The prison system is outdated. No civilized society should punish its criminals: it should rehabilitate them,610,11.84,5.85,479,C2
+MDCM3037,Macedonian,Should criminals be imprisoned or rehabilitated?,710,10.76,3.04,415,C1
+MDCM3039,Macedonian,"In the words of the old song ""Money is the root of all evil""",679,11.95,6.96,489,C2
+FIHE1008,Finnish,"Some people say that in our modern world, dominated by science and technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",718,11.99,8.89,493,C2
+MDCM2032,Macedonian,Most university degrees are theoretical and do not prepare students for the real world. They are therefore of very little value,742,11.79,5.52,477,C2
+MDCM3065,Macedonian,"Some people say that in our modern world, dominated by science technology and industrialisation, there is no longer a place for dreaming and imagination. What is your opinion?",618,11.72,5.2,470,C2
